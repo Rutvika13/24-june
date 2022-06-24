@@ -37,4 +37,10 @@ public class ZerodaPinPageTest {
 		
 		
 }
+	
+	public void demo()
+	{
+		System.out.println("hi");
+	}
+	
 }
